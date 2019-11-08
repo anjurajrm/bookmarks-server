@@ -1,0 +1,13 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"undefined is required","level":"error"}
+{"message":"field is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":" rating '5' not valid","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":" rating '3' not valid","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"validUrl is not a function","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"bookmarks is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
